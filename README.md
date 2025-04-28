@@ -52,9 +52,9 @@ Here are some highlights of my work:
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asim23663&show_icons=true&theme=radical" alt="Asim's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim23663&layout=compact&theme=radical" alt="Top Languages" />
-    <img src="https://streak-stats.demolab.com?user=asim23663&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asim23663&show_icons=true&theme=radical&count_private=true" alt="Asim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asim23663&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=asim23663&theme=radical&hide_border=true&&count_private=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
