@@ -66,7 +66,7 @@ Here are some highlights of my work:
   <a href="mailto:asim1cva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://docs.google.com/presentation/d/1PQkDcLS-yJ3k3smwYFMQ_JTaBrgUyNj_ndai5XLz9lY/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
