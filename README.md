@@ -42,7 +42,8 @@ Here are a few projects I've worked on:
 Feel free to reach out to me at: [asim1cva@gmail.com](mailto:asim1cva@gmail.com)
 
 ## 🚀 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/muhammad-asim-514854137/) 
+- [LinkedIn](https://www.linkedin.com/in/muhammad-asim-514854137/)
+- [Portfolio](https://asim1cva.github.io/my-portfolio/)
 
 ---
 
