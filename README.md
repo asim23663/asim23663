@@ -24,7 +24,6 @@ I’m eager to collaborate on mobile app projects! Whether you have a startup id
 ## 🌍 Projects
 Here are a few projects I've worked on:
 - **[Travel Clothing Club](https://apps.apple.com/us/app/travel-clothing-club/id6754902957)**: Flutter App with Getx, Firebase, Pusher.
-- **[Bundle Up](https://apps.apple.com/us/app/bundle-up/id6741536037)**: Flutter App
 - **[VPN-Lightning](https://apps.apple.com/us/app/vpn-lightning/id1585962294)**: IOS app in SwiftUi using MVVM
 - **[Mite VPN](https://apps.apple.com/us/app/mite-vpn/id6745258516)**: IOS app in SwiftUi using MVVM
 - **[Urban Shield VPN](https://apps.apple.com/us/app/urban-shield-vpn/id6753347161)**: IOS app in SwiftUi using MVVM
