@@ -23,9 +23,6 @@ I’m eager to collaborate on mobile app projects! Whether you have a startup id
 
 ## 🌍 Projects
 Here are a few projects I've worked on:
-- **[Travel Clothing Club](https://apps.apple.com/us/app/travel-clothing-club/id6754902957)**: Flutter App with Getx, Firebase, Pusher.
-- **[VPN-Lightning](https://apps.apple.com/us/app/vpn-lightning/id1585962294)**: IOS app in SwiftUi using MVVM
-- **[VPN Global Protect: FONVPN](https://apps.apple.com/us/app/vpn-global-protect-fonvpn/id6468386565)**: IOS app in SwiftUi using MVVM
 - **Foodage [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.foodage&hl=en_IE&gl=US) [(IOS)](https://apps.apple.com/us/app/foodage-find-food-reviews/id1620709672)**: Flutter app using Getx with MVC
 - **Pickleball Manager [(Android)](https://play.google.com/store/apps/details?id=com.digixvalley.pickleballmanager) [(IOS)](https://apps.apple.com/us/app/pickleball-manager/id1624464674)**: Flutter app using Getx with MVC
 - **Takehair [(Android)](https://play.google.com/store/apps/developer?id=Takehair) [(IOS)](https://apps.apple.com/us/developer/takehair/id1662470871)**: Flutter App
